@@ -1,0 +1,33 @@
+body {
+    color: white;
+    background: black;
+    margin: 0px;
+}
+
+header {
+    border-bottom: solid 20px rgb(228, 180, 49);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(42, 122, 228);
+
+}
+
+.video{
+    padding:20px;
+}
+
+.topo{
+    padding-left: 20px;
+}
+
+section {
+    background: rgb(19, 151, 118);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+.chamada-texto {
+    margin-right: 5%;
+}
